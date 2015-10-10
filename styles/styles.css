@@ -16,3 +16,12 @@ body {
   height: 200px;
     border-radius: 100%;
 }
+.bio{
+width: 100%;
+margin: 0 auto;
+padding: 20px;
+text-align: center;
+line-height: 1;
+font-size: 15px;
+
+}
