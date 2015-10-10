@@ -1,7 +1,5 @@
 /*Default CSS File*/
 body {
- background: red;
- color: white;
  max-width: 1024px;
  margin: 0 auto;
 }
@@ -23,5 +21,34 @@ padding: 20px;
 text-align: center;
 line-height: 1;
 font-size: 15px;
+
+}
+
+.social {
+width: 85%;
+margin: 0 auto:auto;
+
+}
+
+.social ul {
+list-style-type; none;
+display; inline;
+-webkit-margin-before: 0;
+-webkit-margin-after: 0;
+
+}
+
+.social ul li {
+display: inline;
+  text-align: center;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.social ul li img {
+ width: 50px;
+ height: 50px;
+
 
 }
