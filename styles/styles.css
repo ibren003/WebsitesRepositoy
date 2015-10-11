@@ -1,5 +1,6 @@
 /*Default CSS File*/
 body {
+ background: blue;
  max-width: 1024px;
  margin: 0 auto;
 }
